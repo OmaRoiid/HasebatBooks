@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cs_video"
+            android:icon="@drawable/display"
+            android:title="computer science introduction " />
+        <item
+            android:id="@+id/is_video"
+            android:icon="@drawable/display"
+            android:title="information system introduction" />
+        <item
+            android:id="@+id/it_video"
+            android:icon="@drawable/display"
+            android:title="information technology introduction" />
+
+    </group>
+
+
+
+</menu>
